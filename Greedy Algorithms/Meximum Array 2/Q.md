@@ -1,4 +1,4 @@
-# C. Meximum Array 2
+#  Meximum Array 2
 
 ### Description
 

@@ -1,4 +1,4 @@
-# A. Helmets in Night Light
+# Helmets in Night Light
 
 ### Description
 
